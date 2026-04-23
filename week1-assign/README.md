@@ -1,6 +1,3 @@
-
-
-
 # 🚀 React Week 1 Assignment
 
 This project contains solutions to basic React tasks using **JSX, Components, Props, and State**.
